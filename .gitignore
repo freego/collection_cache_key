@@ -1,0 +1,10 @@
+*.gem
+.bundle
+.config
+Gemfile.lock
+InstalledFiles
+coverage
+spec/reports
+test/tmp
+test/version_tmp
+tmp
